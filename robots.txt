@@ -1,1 +1,1 @@
-Sitemap: /fastpages/sitemap.xml
+Sitemap: /sitemap.xml
